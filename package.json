@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "localtunnel": "^2.0.2",
+    "simple-git": "^3.28.0",
+    "uuid": "^11.1.0"
+  }
+}
